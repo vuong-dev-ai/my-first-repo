@@ -1,4 +1,28 @@
 # My First Repo
-## About me
-Hello, I'm Vuong, learning to be a Tooling Engineer
-Today is the first day I have achieved small goal of installing GIT using GIT Bash. Although i still don't remember all the step, I hope I can learn even more.
+
+> A learning journey to become a Tooling Engineer
+
+## 👋 About me
+
+Hello, I'm Vuong, learning to be a Tooling Engineer.
+
+## 🎯 Goals
+
+- [x] Install Git and configure environment
+- [x] Create first GitHub repository
+- [ ] Master Git basics (branch, merge, rebase)
+- [ ] Learn Linux command line
+- [ ] Solve 200+ LeetCode problems
+
+## 🛠️ Tech Stack
+
+- **Languages:** C++, C# (learning Python)
+- **Tools:** Git, VS Code, WSL2
+
+## 📚 Learning Path
+
+Currently in **Year 2 — Week 1**: Git & Linux Foundations
+
+## 📫 Contact
+
+- GitHub: [@vuong-dev-ai](https://github.com/vuong-dev-ai)
