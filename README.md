@@ -10,7 +10,7 @@ Hello, I'm Vuong, learning to be a Tooling Engineer.
 
 - [x] Install Git and configure environment
 - [x] Create first GitHub repository
-- [ ] Master Git basics (branch, merge, rebase)
+- [x] Master Git basics (branch, merge, rebase)
 - [ ] Learn Linux command line
 - [ ] Solve 200+ LeetCode problems
 
