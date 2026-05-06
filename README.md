@@ -26,3 +26,4 @@ Currently in **Year 2 — Week 1**: Git & Linux Foundations
 ## 📫 Contact
 
 - GitHub: [@vuong-dev-ai](https://github.com/vuong-dev-ai)
+- Mail: [vuonghaki05@gmail.com]
